@@ -1,4 +1,8 @@
-
+/*
+    Quiz 3.1
+    Author: Alexis C.
+    Date: 10.06.23
+ */
 
 public class Main {
 
